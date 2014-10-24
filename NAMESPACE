@@ -1,0 +1,9 @@
+import(survival)
+export(bayesmixsurv, bayesmixsurv.crossval, bayesmixsurv.crossval.wrapper, bayesmixsurv.generate.folds, bayesmixsurv.generate.folds.eventbalanced, bayesmixsurv.control)
+
+S3method(predict, bayesmixsurv)
+S3method(print, bayesmixsurv)
+S3method(summary, bayesmixsurv)
+S3method(plot, bayesmixsurv)
+S3method(print, summary.bayesmixsurv)
+S3method(summary, predict.bayesmixsurv)

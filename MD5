@@ -1,0 +1,12 @@
+4d31c0b7a11e8a55cf59f194daf9920c *DESCRIPTION
+56c81f525dd0b46a636ef6f6f4b66c83 *NAMESPACE
+f9989b1bcdb5efb1e4cbfa4908622e54 *R/BayesMixSurv.R
+cdbedfb96ae95f32f7ee3afa15bec6b3 *R/Sample.R
+fa8c66706395a99d30ed2c6942ec0d05 *R/SliceSampler.R
+5f914ddb8e3fb60fe48a03c1b5b098ae *R/utils.R
+c67e91fc1a52d876bc9d66dd26c54296 *R/zzz.R
+e430e52e7a1981aa3879428efb84c26f *man/BayesMixSurv.Rd
+bbb5908ddfce66aaa79a5f109e40d9e7 *man/BayesMixSurv_CrossVal.Rd
+b728fcca953c0a90fd1d51192966b243 *man/plot_BayesMixSurv.Rd
+98f6b0ec89336e56b32952982e35c91f *man/predict_BayesMixSurv.Rd
+a4167077c118fd3bc84c87c73c87e5b8 *man/summary_BayesMixSurv.Rd
