@@ -3,14 +3,17 @@ Type: Package
 Title: Bayesian Mixture Survival Models using Additive
         Mixture-of-Weibull Hazards, with Lasso Shrinkage and
         Stratification
-Version: 0.9
-Date: 2014-10-24
+Version: 0.9.1
+Date: 2016-09-08
 Author: Alireza S. Mahani, Mansour T.A. Sharabiani
-Maintainer: Alireza S. Mahani <alireza.mahani@sentrana.com>
-Description: Bayesian Mixture Survival Models using Additive Mixture-of-Weibull Hazards, with Lasso Shrinkage and Stratification
+Maintainer: Alireza S. Mahani <alireza.s.mahani@gmail.com>
+Description: Bayesian Mixture Survival Models using Additive Mixture-of-Weibull Hazards, with Lasso Shrinkage and
+        Stratification. As a Bayesian dynamic survival model, it relaxes the proportional-hazard assumption. Lasso shrinkage controls
+        overfitting, given the increase in the number of free parameters in the model due to presence of two Weibull components
+        in the hazard function.
 License: GPL (>= 2)
 Depends: survival
-Packaged: 2014-10-25 01:34:35 UTC; amahani
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-10-25 08:07:48
+Packaged: 2016-09-08 05:35:49 UTC; asmahani
+Date/Publication: 2016-09-08 10:24:27

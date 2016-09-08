@@ -1,0 +1,4 @@
+Changes in 0.9.1
+  * Changed maintainer email address.
+  * Added import lines to NAMESPACE to comply with recent CRAN rule change.
+  * Edited package description.
