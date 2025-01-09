@@ -93,5 +93,5 @@ ret <- bayesmixsurv(Surv(time, status)~as.factor(trt)+age+as.factor(celltype)+pr
 ret2 <- bayesmixsurv(Surv(time, status)~as.factor(trt)+age+as.factor(celltype)+prior, veteran
     , control=bayesmixsurv.control(iter=100, alpha2.fixed=1.0))
 }
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
+%%\keyword{ ~kwd1 }
+%%\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
